@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/longhorn/sparse-tools v0.0.0-20211229004436-663d2f697e2a
-	github.com/sirupsen/logrus v1.10.0
+	github.com/sirupsen/logrus v1.10.1
 )
 
 require (
